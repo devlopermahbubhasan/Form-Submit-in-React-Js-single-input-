@@ -1,0 +1,27 @@
+.form{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    padding: 320px;
+}
+.input{
+    width: 450px;
+    height: 40px;
+    text-align: center;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.btn{
+    background-color: rgb(61, 50, 50);
+    width: 100px;
+    height: 30px;
+    color: wheat;
+    border-radius: 10px;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    
+}
